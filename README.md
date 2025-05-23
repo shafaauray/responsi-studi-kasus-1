@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Shafa Aura Yogadiasa  
+NIU : 496508
+Sesi : 1  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
